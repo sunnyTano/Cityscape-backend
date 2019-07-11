@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  neighborhood: MyString
+  borough: MyString
+  name: MyString
+  host_name: MyString
+  price: MyString
+  min_nights: MyString
+  room_type: MyString
+
+two:
+  neighborhood: MyString
+  borough: MyString
+  name: MyString
+  host_name: MyString
+  price: MyString
+  min_nights: MyString
+  room_type: MyString

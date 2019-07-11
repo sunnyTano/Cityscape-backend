@@ -1,0 +1,2 @@
+class NewListingsController < ApplicationController
+end
