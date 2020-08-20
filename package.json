@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "csv": "^5.1.1",
     "json": "^9.0.6"
   }
